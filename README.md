@@ -1,6 +1,6 @@
-# Breeze Darker (KDE Plasma Color Scheme)
+# Darker Breeze Dark (KDE Plasma Color Scheme)
 
-This is a fork of Breeze Darker which inverts the view and background colors, creating a more darker all-around experience. 
+This is a fork of Breeze Dark which inverts the view and background colors, creating a more darker all-around experience. 
 
 There are some minor tweaks to colors, most notably highlight color is now not as bright.
 
